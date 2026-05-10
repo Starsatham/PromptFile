@@ -1,0 +1,13 @@
+A realistic portrait photograph of a young man with curly hair and a beard, wearing a red plaid shirt, smiling warmly. He is holding a beautiful flower bouquet in his hands. His face must remain natural, unchanged, and highly realistic — do not alter facial features, do not stylize, and do not generate an artificial or different face. Maintain true-to-life skin texture and identity.
+
+He is surrounded by four translucent, glass-like floating music player widgets, each displaying album art, song titles, artist names, and playback controls (play/pause, next/previous, progress bar). The UI elements should look modern, minimal, and slightly glowing.
+
+Featured songs include:
+
+* “Enakenna Yaarum Illaye” with artist name “Anirudh Ravichander”
+* “Arabic Kuthu” labeled as “Arabic Kuthu”
+* “Vaathi Coming” labeled as “(Saathi)”
+
+The background is a soft-focus indoor hallway with warm, diffused lighting, creating a cozy and cinematic atmosphere. Depth of field is shallow, with the subject in sharp focus and the background blurred smoothly.
+
+Style: ultra-realistic photography, 4K, natural lighting, cinematic depth of field, no face distortion, no AI-art lo
