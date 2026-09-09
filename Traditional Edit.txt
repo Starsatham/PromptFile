@@ -1,0 +1,11 @@
+Photo prompt:
+
+Transform this photo into an authentic 1980s version of me while keeping my face, identity, facial features, and natural likeness clearly recognizable.
+Style me with iconic 80s fashion, a voluminous retro hairstyle, vintage accessories, and classic aviator sunglasses.
+Create a cinematic 1980s atmosphere with warm golden lighting, nostalgic film photography, subtle film grain, faded vintage colors, textured edges, and an authentic retro aesthetic. Add a period-accurate background with classic cars, vintage posters, cassette players, or other iconic 80s elements.
+Ultra-realistic, highly detailed, natural skin texture, cinematic composition, professional editorial photography, nostalgic 1980s magazine aesthetic.
+Keep my face recognizable and do not alter my identity or facial structure.
+
+Video Prompt:
+
+Use the uploaded person as the exact identity reference. Preserve their face, natural features, skin tone, and identity consistently. Transform them into an authentic 1980s South Indian/Tamil-cinema character with a period-correct hairstyle, clothing, grooming, and accessories appropriate to their gender. Place them in a nostalgic 1980s Chennai/Tamil Nadu street with vintage vehicles, Tamil storefronts, cinema posters, and everyday street life. Have them walk naturally toward the camera with a subtle confident expression and realistic body, hair, and clothing movement. Warm golden sunlight, cinematic 35mm film look, soft analog focus, natural skin texture, subtle film grain, faded Kodak colors, gentle lens flare, realistic handheld camera
